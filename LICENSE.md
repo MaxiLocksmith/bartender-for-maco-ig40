@@ -1,4 +1,4 @@
-
+Enhance Bartender for macOS with Bartender for macOS best Addon - CPU-monitoring and app-uninstaller, the #1 addon. Includes CPU-monitoring and app-uninstaller for a smoother
 
 
 
